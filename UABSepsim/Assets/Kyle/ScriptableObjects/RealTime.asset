@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 792be06131805074a89eff87db1378e2, type: 3}
+  m_Name: RealTime
+  m_EditorClassIdentifier: 
+  Second: 30
+  Minute: 10
+  Hour: 3
+  SecondsPassed: 0
+  TotalGameSeconds: 0
+  TimeShouldPass: 1
