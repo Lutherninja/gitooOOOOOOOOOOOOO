@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 792be06131805074a89eff87db1378e2, type: 3}
   m_Name: InGameTime
   m_EditorClassIdentifier: 
-  Second: 30180.295
-  Minute: 503.0049
-  Hour: 8.383415
-  SecondsPassed: 1380.361
-  TotalGameSeconds: 30180.295
+  Second: 31105.271
+  Minute: 518.4212
+  Hour: 8.640353
+  SecondsPassed: 2305.3186
+  TotalGameSeconds: 31105.271
   TimeShouldPass: 1

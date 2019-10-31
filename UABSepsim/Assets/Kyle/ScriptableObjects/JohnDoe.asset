@@ -18,7 +18,7 @@ MonoBehaviour:
   Allergies: None
   History: None
   HomeMeds: None
-  Temperature: 98.6
+  Temperature: 98.87882
   HR: 80
   RR: 18
   BPS: 120
@@ -32,4 +32,4 @@ MonoBehaviour:
   InfectionActive: 1
   InfectionRate: 1
   InfectionStart: 1
-  InfectionCurrent: 0
+  InfectionCurrent: 2.2486553
